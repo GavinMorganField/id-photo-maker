@@ -4,6 +4,30 @@
 
 A lightweight and modern ID photo generator built with pure Python, HTML, JavaScript, and TailwindCSS CDN. No complicated frameworks, no build tools—just plug and play. Perfect for passport, visa, resume, or any official document photo needs.
 
+**Project usage method**
+
+1.Clone the entire project：
+
+```bush
+git clone https://github.com/GavinMorganField/id-photo-maker.git
+```
+
+2.Navigate into the cloned directory and install dependencies：
+
+```bush
+pip install -r requirements.txt
+```
+
+3.Run the server：
+
+```bush
+python main.py
+```
+
+4.Find the listening URL in the console output and open it in your browser：
+
+<img width="1419" height="262" alt="image" src="https://github.com/user-attachments/assets/25ee2ecb-4f29-4f05-978a-ed9a6f738f1c" />
+
 **Example interface of ID Photo Maker**
 
 > **Disclaimer**: The portrait in the demo image uses a widely circulated character graphic from the internet and is intended solely for illustrative purposes, with no intent to infringe. This project contains a small portion of code generated with the assistance of AI tools. All such code has been manually reviewed and optimized to ensure functionality and security.
